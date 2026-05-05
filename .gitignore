@@ -1,0 +1,8 @@
+/target/
+*.db
+*.audit.db
+/logs/
+vault_fs.json
+.license
+*.vault/
+.claude/
